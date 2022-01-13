@@ -1,0 +1,2 @@
+# F-O-Prediction-Stcok-market-
+Model Implied Volatility Surface dynamics based on the training dataset (training_data.csv), i.e., 2.5 years of volatility surface data is made available for model calibration. Participants are encouraged to do exploratory data analysis on the training data to find any patterns, trends, dependencies among tenors and use any dimension reduction methods before modelling the temporal dynamics of implied volatility surface. More generally, the problem calls for an ML technique to represent dynamics of a matrix-valued stochastic process.
